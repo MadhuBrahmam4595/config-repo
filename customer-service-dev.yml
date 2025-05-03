@@ -2,7 +2,7 @@ global:
  message: Welcome to customer service dev environment
 server:
  port: 8081
-message: Hello from Dev!
+message: Hello from customer Dev!
 spring:
  datasource:
   url: jdbc:mysql://localhost:3306/cust_dev
